@@ -3,10 +3,10 @@
 <img src="https://avatars2.githubusercontent.com/u/57558817?s=460&u=a04eb3efdc150a54c76aa9368c3cee157ae55923&v=4" width="120" height="120" align="left">
 
 
-<a href="facebook.com/rizzari13/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;
-<a href="instagram.com/tigabelas_sec" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" alt="alt text" width="20" height="20"></a>
+<a href="https://www.facebook.com/rizzari13/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/733/733547.svg" alt="alt text" width="20" height="20"></a>      &nbsp;&nbsp;
+<a href="https://instagram.com/tigabelas_sec" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409946.svg" alt="alt text" width="20" height="20"></a>
 &nbsp;&nbsp; 
-<a href="twitter.com/tigabelassec" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/124/124021.svg" alt="alt text" width="20" height="20"></a>
+<a href="https://twitter.com/tigabelassec" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/124/124021.svg" alt="alt text" width="20" height="20"></a>
 &nbsp;&nbsp;
 <a href="mailto:ilhamqs@gmail.com" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" alt="alt text" width="20" height="20"></a>
 
