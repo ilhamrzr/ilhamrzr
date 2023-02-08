@@ -6,9 +6,9 @@
 <a href="https://www.facebook.com/rizzari13/" target="_blank"><img src="img/facebook.svg" alt="Facebook" width="20" height="20"></a>      &nbsp;&nbsp;
 <a href="https://instagram.com/tigabelas_sec" target="_blank"><img src="img/instagram.svg" alt="Instagram" width="20" height="20"></a>
 &nbsp;&nbsp; 
-<a href="https://twitter.com/tigabelassec" target="_blank"><img src="img/twitter.svg" alt="Twitter" width="20" height="20"></a>
+<a href="https://twitter.com/ilhamrzr" target="_blank"><img src="img/twitter.svg" alt="Twitter" width="20" height="20"></a>
 &nbsp;&nbsp;
-<a href="mailto:ilhamqs@gmail.com" target="_blank"><img src="img/gmail.svg" alt="E-Mail" width="20" height="20"></a>
+<a href="mailto:ilham@tigabelassec.my.id" target="_blank"><img src="img/gmail.svg" alt="E-Mail" width="20" height="20"></a>
 
 Never stop learning
 -
