@@ -16,7 +16,7 @@
 - 📚 Always learning: Cloud, Networking, Cybersecurity, and Offensive Techniques
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-@tigabelassec-E4405F?logo=instagram&logoColor=white)](https://instagram.com/tigabelassec)
+[![Instagram](https://img.shields.io/badge/Instagram-@tigabelas_sec-E4405F?logo=instagram&logoColor=white)](https://instagram.com/tigabelas_sec)
 [![X](https://img.shields.io/badge/X-@ilhamrzr-000000?logo=x&logoColor=white)](https://x.com/ilhamrzr)
 [![Blog](https://img.shields.io/badge/Blog-tigabelassec.my.id-0A66C2?logo=googlechrome&logoColor=white)](https://www.tigabelassec.my.id)
 [![Gmail](https://img.shields.io/badge/Email-ilhamrzr%40proton.me-D14836?logo=gmail&logoColor=white)](mailto:ilham@tigabelassec.my.id)
