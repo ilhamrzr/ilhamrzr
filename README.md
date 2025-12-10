@@ -1,34 +1,30 @@
-### Hi I'm Ilham 👋
+<h1 align="center">Hi, I'm Ilham 👋</h1>
+<h3 align="center">Security Researcher • Bug Hunter • Developer</h3>
 
-<img src="https://avatars2.githubusercontent.com/u/57558817?s=460&u=a04eb3efdc150a54c76aa9368c3cee157ae55923&v=4" width="120" height="120" align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ilhamrzr&label=Profile%20Views&color=blueviolet&style=flat" alt="profile views"/>
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔥 Security Researcher & Bug Bounty Hunter
+- 👨‍💻 Comfortable with **Python**, **Bash**, **JavaScript**, and **Automations**
+- 🛡 Loves building tools for **Recon**, **Automation**, **OSINT**, and **Bypass Techniques**
+- 🧪 Currently experimenting with **Android Internals**, **ADB**, **FRP**, and **Custom Automation Devices**
+- 📚 Always learning: Cloud, Networking, Cybersecurity, and Offensive Techniques
 
 
-<a href="https://www.facebook.com/rizzari13/" target="_blank"><img src="img/facebook.svg" alt="Facebook" width="20" height="20"></a>      &nbsp;&nbsp;
-<a href="https://instagram.com/tigabelas_sec" target="_blank"><img src="img/instagram.svg" alt="Instagram" width="20" height="20"></a>
-&nbsp;&nbsp; 
-<a href="https://twitter.com/ilhamrzr" target="_blank"><img src="img/twitter.svg" alt="Twitter" width="20" height="20"></a>
-&nbsp;&nbsp;
-<a href="mailto:ilham@tigabelassec.my.id" target="_blank"><img src="img/gmail.svg" alt="E-Mail" width="20" height="20"></a>
+[![Instagram](https://img.shields.io/badge/Instagram-@tigabelassec-E4405F?logo=instagram&logoColor=white)](https://instagram.com/tigabelassec)
+[![X](https://img.shields.io/badge/X-@tigabelassec-000000?logo=x&logoColor=white)](https://x.com/ilhamrzr)
+[![Blog](https://img.shields.io/badge/Blog-tigabelassec.my.id-0A66C2?logo=googlechrome&logoColor=white)](https://www.tigabelassec.my.id)
+[![Gmail](https://img.shields.io/badge/Email-ilhamrzr%40proton.me-D14836?logo=gmail&logoColor=white)](mailto:ilham@tigabelassec.my.id)
 
-Never stop learning
--
-🌐 Official Website : [https://www.tigabelassec.my.id/](https://www.tigabelassec.my.id/)
 
-![ilhamrzr github stats](https://github-readme-stats.vercel.app/api?username=ilhamrzr&show_icons=true&theme=tokyonight)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamrzr&layout=compact&theme=onedark)
+## ⚡ Fun Fact
 
-<!--
-**ilhamrzr/ilhamrzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I break things to make them better ⚔️  
+Security is not a job — **it's a habit.**
